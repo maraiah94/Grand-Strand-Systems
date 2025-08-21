@@ -1,1 +1,18 @@
-# Grand-Strand-Systems
+#Module Eight Journal
+
+. How can I ensure that my code, program, or software is functional and secure?
+
+
+To guarantee the effective performance of my code, program, or software, I will rigorously adhere to established requirements and specifications throughout the development process. This includes conducting a variety of testing strategies such as unit testing, integration testing, system testing, and user acceptance testing to ensure that each component functions as intended and the overall system meets user expectations. To uphold the highest security standards, I will focus on writing clean and straightforward code that minimizes complexity, making it easier to identify potential risks. I will adopt a standardized coding methodology, such as Agile or DevOps, which facilitates collaboration and consistency across the development team. Furthermore, I will implement security best practices, including regular code reviews and static code analysis, to proactively uncover and address any vulnerabilities before they can be exploited. Thorough testing will play a critical role in this process, enabling me to systematically identify weaknesses and rectify them to maintain both the integrity and reliability of the software.
+
+
+. How do I interpret user needs and incorporate them into a program?
+
+
+Requirements gathering is a pivotal phase in the software design process, as it ensures that the end-user needs and expectations are thoroughly integrated into the application's development. This process involves several critical stages, each contributing significantly to the project's overall success. Initially, stakeholder identification and engagement are crucial, as they help uncover various user perspectives and needs. Next, methods such as interviews, surveys, and workshops are employed to collect detailed information about user requirements. This qualitative and quantitative data lays the groundwork for accurately defining the system's functional and non-functional requirements. Utilizing Unified Modeling Language (UML) diagrams during this phase can substantially enhance the clarity and organization of requirements. UML diagrams, such as use case diagrams and activity diagrams, provide a visual representation of user interactions and system functionalities, making it easier to identify gaps or inconsistencies in requirements.
+
+Furthermore, I can illuminate user needs by defining explicit system expectations, which involves articulating how the system should behave in various scenarios. Analyzing user interactions through techniques like user journey mapping allows for a deeper understanding of user experiences and pain points, thus establishing a solid foundation for the entire Software Development Life Cycle (SDLC). This thorough approach ensures that requirements are not only understood but also prioritized effectively, guiding development teams in creating software that truly meets user needs and enhances overall satisfaction.
+
+· How do I approach designing software?
+
+I embrace an iterative approach to software design because I find it to be an exceptionally effective strategy for breaking down projects into smaller, more manageable components. This methodology allows for repeated cycles of design, development, and testing, which not only fosters continuous improvement but also enables the team to incorporate user feedback at various stages of the project. By iterating on each component, we can identify issues early, make necessary adjustments, and refine features to better meet user needs. This process ultimately enhances both the efficiency and quality of the software development lifecycle, ensuring that the final product delivers maximum value and aligns closely with project goals and user expectations.
